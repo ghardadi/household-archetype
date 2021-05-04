@@ -1,0 +1,215 @@
+Code,Expenditure (English),Aggregate
+EF243,Food,0
+EF244,Soft drinks,1
+EF245,Alcoholic beverages (including non-alcoholic beers and wines),2
+EF246,Tobacco products,3
+EF247,Drugs,3
+EF248,Clothing fabrics,4
+EF249,Clothing for men aged 14 and over,5
+EF250,Clothing for women aged 14 and over,5
+EF251,Clothing for children under the age of 14,5
+EF252,Clothing accessories,6
+EF253,Foreign changes and repairs to clothing (including rental fees),7
+EF254,"Dry cleaning, washing, ironing and dyeing clothing",7
+EF255,Shoes for men from 14 years,8
+EF256,Shoes for women aged 14 and over,8
+EF257,Shoes for children under 14 years,8
+EF258,Shoe accessories,8
+EF259,Foreign changes and repairs to shoes (including rental fees),9
+EF260,"Net cold rent for owner-occupied main apartment, for information",83
+EF261,"Permanent rent in hotels, inns, guest houses (for main, secondary, leisure apartments)",10
+EF262,"Sublease including operating costs and user fees (for main, second, leisure apartments)",10
+EF263,Rent for main apartment (gross),10
+EF264,"Net cold rent for owner-occupied leisure apartment, for information",83
+EF265,"Net cold rent for owner-occupied second home, for information",83
+EF266,Rent for garage and parking spaces (connected to the apartment) - formerly 0724060,12
+EF267,Rent for storage space,12
+EF268,"Rent for second homes, leisure apartments (gross)",10
+EF269,"Imputed rent payments for owner-occupied apartments as the main apartment, building built until 1948, (excluding operating costs, heating costs and garage rent) (net)",11
+EF270,"Imputed rent payments for owner-occupied apartments as the main apartment, building built from 1949 to 1990, (excluding operating costs, heating costs and garage rent) (net)",11
+EF271,"Imputed rent payments for owner-occupied apartments as the main apartment, building erected from 1991 to 2000, (excluding operating costs, heating costs and garage rent) (net)",11
+EF272,"Imputed rent payments for owner-occupied apartments as the main apartment, building constructed in 2001 and later, (without operating costs, heating costs and garage rent) (net)",11
+EF273,Imputed rental payments for free main apartments (tenants); Dependency of relatives and the like (net),11
+EF274,Imputed rental payments for free second homes (tenants); Dependency of relatives and the like (net),11
+EF275,"Imputed rent payments for owner-occupied apartments as second homes, leisure homes (without operating costs, heating costs and garage rent) (net)",11
+EF276,Rental value of the owner's garages - formerly 0724061,12
+EF277,Rental value for rent-free garages / parking spaces - formerly 0724062,12
+EF278,"Expenditures for maintenance and cosmetic repairs - own work, tenants / subtenants for main, secondary, leisure apartments",13
+EF279,"Minor maintenance, repairs - own work, owners of houses - for information",83
+EF280,"Smaller maintenance, repairs - own work, condominiums - for information",83
+EF281,"Expenditures for minor maintenance, repairs of the owners - own work (material)",13
+EF282,"Expenses for maintenance and cosmetic repairs - third-party services, tenants / subtenants for main, secondary, leisure apartments",14
+EF283,"Minor maintenance, repairs - external services, owners of houses - for information",83
+EF284,"Minor maintenance, repairs - external services, condominiums - for information",83
+EF285,"Expenditures for minor maintenance, repairs of the owner - external services (handicraft)",14
+EF286,"Water consumption (cold water) main apartment, house owner - for information",83
+EF287,"Water consumption (cold water) second home, house owner - for information",83
+EF288,"Water consumption (cold water) leisure apartment, house owner - for information",83
+EF289,"Garbage disposal main apartment, house owner - for information",83
+EF290,"Garbage disposal second home, house owner - for information",83
+EF291,"Garbage disposal leisure apartment, home owner - for information",83
+EF292,"Sewage disposal main apartment, house owner - for information",83
+EF293,"Sewage disposal second home, house owner - for information",83
+EF294,"Sewage disposal recreational apartment, house owner - for information",83
+EF295,"Other operating costs of main apartment, house owner - for information",83
+EF296,"Other operating costs second home, house owner - for information",83
+EF297,"Other operating costs recreational apartment, house owner - for information",83
+EF298,"Operating costs for owner-occupied main apartment, tenant / sub-tenant - for information",83
+EF299,"Operating costs for self-used second home, tenant / sub-tenant - for information",83
+EF300,"Operating costs for self-used leisure accommodation, tenants / sub-tenants - for information",83
+EF301,"Additional costs main apartment (not separable), condominium - for information",83
+EF302,"Additional costs second home (not separable), condominium - for information",83
+EF303,"Additional costs leisure apartment (not separable), condominium - for information",83
+EF304,"Additional costs main apartment (not separable), house owner - for information",83
+EF305,"Additional costs second home (not separable), house owner - for information",83
+EF306,"Additional costs leisure apartment (not separable), house owner - for information",83
+EF307,Additional costs for the main apartment,15
+EF308,Additional costs for second / leisure apartment,15
+EF309,House allowance (without maintenance reserve and energy costs) Main apartment - condominium - for information,83
+EF310,House allowance (without maintenance reserve and energy costs) second home - condominium - for information,83
+EF311,House allowance (without maintenance reserve and energy costs) Leisure apartment - condominium - for information,83
+EF312,House allowance for condominiums - not real estate - for information,83
+EF313,Energy costs - not self-used,83
+EF314,Electricity (also solar energy),16
+EF315,Liquefied petroleum gas (e.g. propane gas) - for information,83
+EF316,Gas (city and natural gas) - for information,83
+EF317,Total gas,17
+EF318,Other liquid fuels - for information,83
+EF319,Heating oil - for information,83
+EF320,Total liquid fuels (oil),18
+EF321,"Coal, wood and other solid fuels",19
+EF322,District heating and hot water,20
+EF323,Hot water - for information,83
+EF324,District heating - for information,83
+EF325,Ice for refrigeration and freezing,20
+EF326,Charges for heating and hot water,20
+EF327,Charges for heating and hot water: district heating (estimated) - for information,83
+EF328,Charges for heating and hot water: electricity (estimated) - for information,83
+EF329,Charges for heating and hot water: gas (estimated) - for information,83
+EF330,Charges for heating and hot water: heating oil (estimated) - for information,83
+EF331,Charges for heating and hot water: solid fuels (estimated) - for information,83
+EF332,Charges for heating and hot water: Other types of energy (estimated) - for information,83
+EF333,Delivery and installation of furniture and electric lights,83
+EF334,Furniture and furnishings,21
+EF335,Laying carpets and elastic floor coverings,22
+EF336,Carpets and resilient flooring,22
+EF337,"Repair of furniture, furnishings and flooring",23
+EF338,Home textiles,24
+EF339,Manufacture and external repairs of home textiles,24
+EF340,"Refrigerators, freezers and chests",25
+EF341,"Washing machines, tumble dryers, dishwashers and ironing machines",25
+EF342,Foreign installations of large household appliances,25
+EF343,Other larger household appliances,25
+EF344,Small electrical household appliances,26
+EF345,Repairs to household appliances (including rents),27
+EF346,"Repairs to glassware, dishes and other household items",27
+EF347,"Glassware, dishes and other household items",28
+EF348,"Motorized garden tools (including repairs, rental)",29
+EF349,"Electrical tools (including repairs, rental)",29
+EF350,"Other household goods (metal goods, electrical material)",29
+EF351,"Non-powered garden tools (including repairs, rentals)",30
+EF352,"Non-electrical tools (including repairs, rental)",30
+EF353,Household goods,31
+EF354,Childcare (without meals) by private individuals,32
+EF355,Housekeeping and other home services,32
+EF356,Pharmaceutical products - for people with statutory health insurance - bought with a prescription (only own contribution / additional payment),33
+EF357,Pharmaceutical products with / without a prescription (total (disbursed) amount),33
+EF358,Pharmaceutical products - for people with statutory health insurance - bought without a prescription - for information,83
+EF359,Pharmaceutical products - for people with private health insurance - bought without a prescription - for information,83
+EF360,Pharmaceutical products - for people with private health insurance - bought with a prescription (total amount paid) - for information,83
+EF361,Other medical products - for those with statutory health insurance - bought with a prescription (only own contribution / additional payment),34
+EF362,Other medical products with / without a prescription (total (disbursed) amount),34
+EF363,Other medical products - for those with statutory health insurance - bought without a prescription - for information,83
+EF364,Other medical products - for privately insured persons - bought without a prescription - for information,83
+EF365,Other medical products - for people with private health insurance - bought with a prescription ((total amount paid) - for information,83
+EF366,Orthopedic shoes (including own shares),35
+EF367,Dentures Material costs (including own shares),35
+EF368,Repairs of therapeutic devices and equipment (including own shares),35
+EF369,Therapeutic agents and devices (including own shares),35
+EF370,Practice fees (additional payments),35
+EF371,Medical services,36
+EF372,Dental services,37
+EF373,Rental of therapeutic equipment,38
+EF374,Other medical care outside of hospitals (including own shares),38
+EF375,Hospital services (including own shares),39
+EF376,Purchase price or leasing rate for new cars,40
+EF377,Purchase price or leasing rate for used cars,40
+EF378,Purchase price or leasing rate for motorcycles,41
+EF379,Purchase price or leasing rate for bicycles,42
+EF380,Carriages and the like drawn by animals,42
+EF381,"Accessories, individual and spare parts for bicycles",43
+EF382,Spare parts and accessories for motor vehicles and motorcycles,43
+EF383,"Fuels, LPG, electricity for electric cars, lubricants",44
+EF384,"Maintenance, care and repairs of vehicles",45
+EF385,"Other services (e.g. parking, TUV fees, garages connected to the job / parking space rental)",46
+EF386,External transport services (without overnight stay) - not air transport,47
+EF387,Foreign transport services (overnight) - not air transport,47
+EF388,Foreign transport services (without overnight stay) - air transport,48
+EF389,Foreign transport services (overnight) - air transport,48
+EF390,"Postal and parcel services, private letter and parcel delivery services, fees and charges, shipping costs",49
+EF391,Purchase and repair of landline and mobile phones and other communication devices,50
+EF392,"Communication services - mobile phone (charges, single flat rate)",51
+EF393,"Communication services - Internet / online services (fee, single flat rate)",51
+EF394,Communication services - double flat rate landline phone + Internet (combi package),51
+EF395,Communication services - mobile phone + internet (combination package),51
+EF396,Communication services - Other combi flat rates,51
+EF397,"Communication services - landline phone, fax, telegrams (fees, single flat rate)",51
+EF398,"Sound receiving, recording and reproducing apparatus",52
+EF399,"TV and video equipment, TV antennas",52
+EF400,"Photo and film equipment, optical devices and accessories",53
+EF401,Data processing devices as well as system and application software (including downloads and apps),54
+EF402,"Image, data and sound carriers (including downloads of films, music, photos and corresponding apps)",55
+EF403,"Repairs of equipment for receiving, recording and reproducing sound and images, of photographic and film equipment and of optical and data processing equipment",56
+EF404,"Durable consumer goods and equipment for sports, camping and recreation, musical instruments",57
+EF405,"Repairs and installations of durable consumer goods and equipment for sports, camping and recreation, musical instruments as well as sports and camping articles",58
+EF406,"Toys (including computer, online games, downloads and apps)",59
+EF407,Sporting goods,60
+EF408,Camping items,60
+EF409,Garden products and consumer goods for garden maintenance,61
+EF410,Cut flowers and houseplants,61
+EF411,Pets including veterinary and other services,62
+EF412,"Extracurricular sports and music lessons, hobby courses",63
+EF413,Rental / rental fees for sports and camping items,63
+EF414,"Entrance fees, usage fees when visiting sports and leisure events or facilities",63
+EF415,Radio and television fees (GEZ),63
+EF416,Cable TV fees,63
+EF417,"Pay TV, online video rental fees",63
+EF418,"Services from photographers, photo laboratories, photo services and the like",63
+EF419,"Rent / rental fees TV, video equipment, video films, DVDs",63
+EF420,"Entrance fees, usage fees when visiting cultural events or institutions",64
+EF421,Other leisure and cultural services,64
+EF422,Gambling,65
+EF423,Books and brochures (including downloads and apps),66
+EF424,"Rent / lending fee for books, magazines",67
+EF425,"Newspapers and magazines, maps and globes (including downloads and apps)",68
+EF426,"Other consumer goods for school, office, entertainment and leisure",69
+EF427,"Stationery, drawing materials and other consumer goods",69
+EF428,Package tours: domestic,70
+EF429,Package tours: abroad,71
+EF430,Childcare (without meals) - kindergartens,72
+EF431,Childcare (without meals) - preschool classes,72
+EF432,"Tuition, course and examination fees at schools (also vocational) and universities",72
+EF433,Tutoring,72
+EF434,Course fees (without qualifications),72
+EF435,"Food and drinks in restaurants, cafes, ice cream parlors, at food stalls and from the delivery service",73
+EF436,Food and drinks in canteens and canteens,73
+EF437,Overnight stays,73
+EF438,Other personal care services,74
+EF439,Hairdressing services for men (costs including tips),75
+EF440,Hairdressing services for children (costs including tips),75
+EF441,Hairdressing services for women (costs including tips),75
+EF442,Electrical personal care equipment (including repairs),76
+EF443,Non-electrical consumer goods for personal care,77
+EF444,"Toilet paper, paper tissues and similar hygiene articles",77
+EF445,"Toiletries, fragrances and beauty products",77
+EF446,Prostitution services,74
+EF447,Jewelry (including repairs),78
+EF448,Watches (also repairs),78
+EF449,Other personal items,79
+EF450,"Childcare (no meals) - home, after-school care, creche, playgroup",80
+EF451,Childcare (without meals) - children's leisure time,80
+EF452,"Services for the care of old, disabled and people in need of care in old people's and nursing homes",80
+EF453,"Services for the care of the elderly, disabled and people in need of care in the home",80
+EF454,Insurance services,81
+EF455,Financial services,82
+EF456,Other services,74

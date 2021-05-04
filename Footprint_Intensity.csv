@@ -1,0 +1,84 @@
+Aggregate,Products,"Carbon Intensity, kg/Euro","Direct, kg/Euro","Indirect, kg/Euro"
+0,Food,0.598,0.598,0
+1,Non-alcoholic beverages,0.353,0.353,0
+2,Alcoholic beverages,0.237,0.237,0
+3,Tobacco,0.067,0.067,0
+4,Clothing materials,0.658,0.658,0
+5,Garments,0.608,0.608,0
+6,Other articles of clothing and clothing accessories,0.393,0.393,0
+7,"Cleaning, repair and hire of clothing",0.163,0.163,0
+8,Shoes and other footwear,0.584,0.584,0
+9,Repair and hire of footwear,0.163,0.163,0
+10,Actual rentals paid by tenants,0.124,0.124,0
+10,Imputed rentals of owner-occupiers,0.124,0.124,0
+12,Rent for garage,0.117,0.117,0
+13,Materials for the maintenance and repair of the dwelling,0.4,0.4,0
+14,Services for the maintenance and repair of the dwelling,0.049,0.049,0
+15,Operating costs paid by tenants,1.161,1.161,0
+16,Electricity,1.737,1.737,0
+17,Gas,4.36,0.834,3.526
+18,Liquid fuels,4.88,0.625,4.255
+19,Solid fuels,2.546,1.161,1.385
+20,Heat energy,0.875,0.875,0
+21,Furniture and furnishing,0.313,0.313,0
+22,Carpets and other floor coverings,0.391,0.391,0
+23,"Repair of furniture, furnishings and floor coverings",0.163,0.163,0
+24,Household textiles,0.645,0.645,0
+25,Major household appliances whether electric or not,0.406,0.406,0
+26,Small electric household appliances,0.273,0.273,0
+27,Repair of household appliances,0.163,0.163,0
+28,"Glassware, tableware and household utensils",0.4,0.4,0
+29,Major tools and equipment,0.285,0.285,0
+30,Small tools and miscellaneous accessories,0.339,0.339,0
+31,Non-durable household goods,0.853,0.853,0
+32,Domestic services and household services,0.163,0.163,0
+33,Pharmaceutical products,0.937,0.937,0
+34,Other medical products,0.546,0.546,0
+35,Therapeutic appliances and equipment,0.25,0.25,0
+36,Medical services,0.2,0.2,0
+37,Dental services,0.2,0.2,0
+38,Paramedical services,0.121,0.121,0
+39,Hospital services,0.2,0.2,0
+40,Motor cars,0.253,0.253,0
+41,Motor cycles,0.253,0.253,0
+42,Bicycles,0.356,0.356,0
+43,Spare parts and accessories for personal transport equipment,0.276,0.276,0
+44,Fuels and lubricants for personal transport equipment,2.423,0.767,1.656
+45,Maintenance and repair of personal transport equipment,0.262,0.262,0
+46,Other services in respect of personal transport equipment,0.252,0.252,0
+47,Passenger transport (not by air),0.267,0.267,0
+48,Passenger transport by air,1.238,1.238,0
+49,Postal services,0.069,0.069,0
+50,Telephone and telefax equipment,0.565,0.565,0
+51,Telephone and telefax services,0.069,0.069,0
+52,"Equipment for the reception, recording and reproduction of sound and pictures",0.565,0.565,0
+53,Photographic and cinematographic equipment and optical instruments,0.565,0.565,0
+54,Information processsing equipment,0.501,0.501,0
+55,Recording media,0.105,0.105,0
+56,"Repair of audio-visual, photographic and information processing equipment",0.211,0.211,0
+57,Major durables for outdoor recreation,0.326,0.326,0
+58,Maintenance and repair of other major durables for recreation and culture,0.121,0.121,0
+59,"Games, toys and hobbies",0.13,0.13,0
+60,"Equipment for sport, camping and open-air recreation",0.391,0.391,0
+61,"Gardens, plants and flowers",0.4,0.4,0
+62,Pets and related products,0.662,0.662,0
+63,Recreational and sporting services,0.152,0.152,0
+64,Cultural services,0.152,0.152,0
+65,Games of chance,0.185,0.185,0
+66,Books,0.196,0.196,0
+67,Newspapers and periodicals,0.104,0.104,0
+68,Miscellaneous printed matter,0.196,0.196,0
+69,Stationery and drawing materials,0.138,0.138,0
+70,Package holidays (Germany),0.267,0.267,0
+71,Package holidays (foreign country),0.878,0.878,0
+72,Education services,0.101,0.101,0
+73,Restaurants and accommodation services,0.12,0.12,0
+74,Other services n.e.c.,0.111,0.111,0
+75,Hairdressing salons and personal grooming establishments,0.163,0.163,0
+76,Electric appliances for personal care,0.275,0.275,0
+77,"Other appliances, articles and products for personal care",0.709,0.709,0
+78,"Jewellery, clocks and watches",0.391,0.391,0
+79,Other personal effects,0.163,0.163,0
+80,Social protection (private),0.178,0.178,0
+81,Other insurance,0.126,0.126,0
+82,Other financial services n.e.c.,0.119,0.119,0
